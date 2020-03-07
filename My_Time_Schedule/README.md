@@ -12,6 +12,6 @@ When opening the file in LibreOffice, choose **Enable Macro** at the prompt to b
 You need to have LibreOffice installed on your machine. This file was created with LibreOffice 6.1 but it should works with older versions and later as well. It might even work with Excel, let me know if you feel adventurous!
 
 Contact:
-gweno@superbusydaddy.com
+gweno@tutolibro.tech
 
 
